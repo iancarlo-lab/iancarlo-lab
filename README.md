@@ -48,8 +48,8 @@ I am a **Mechatronics Engineer** and **Technical Product Manager** with a "build
 ---
 
 ### 📈 System Metrics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[iancarlo-lab]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[iancarlo-lab]&layout=compact&theme=radical)
 
 ---
 
