@@ -47,12 +47,6 @@ I am a **Mechatronics Engineer** and **Technical Product Manager** with a "build
 
 ---
 
-### 📈 System Metrics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancarlo-lab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancarlo-lab&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with the Builder
 - **LinkedIn:** [https://www.linkedin.com/in/adriann-murillo/]
 - **Email:** [adriann.murillo@gmail.com]
