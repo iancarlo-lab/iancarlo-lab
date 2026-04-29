@@ -1,6 +1,6 @@
-## Hi there, I'm Adrian 👋
+# Hi there, I'm Adrian 👋
 
-# Mechatronics Engineer | Technical Product Leader | Indie Hacker 🛠️
+## Mechatronics Engineer | Technical Product Leader | Indie Hacker 🛠️
 
 > **"Bridging the gap between high-scale AI and real-world physical automation."** > 📍 Based in British Columbia, Canada 
 
