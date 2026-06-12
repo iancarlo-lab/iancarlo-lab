@@ -47,7 +47,7 @@ I am a **Mechatronics Engineer** and **Technical Product Manager** with a "build
 
 ---
 
-### 📫 Connect with the Builder
+### 📫 Connect with the me!
 - **LinkedIn:** [https://www.linkedin.com/in/adriann-murillo/]
 - **Email:** [adriann.murillo@gmail.com]
 
