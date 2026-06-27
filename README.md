@@ -17,7 +17,7 @@ I am a **Mechatronics Engineer** and **Technical Product Manager** with a "build
 | :--- | :--- | :--- |
 | **AI/ML:** Computer Vision, NLP, Heuristics | **Control:** ROS2, C++, PID Loops, Firmware | **Ops:** Jira, Agile, Roadmap Strategy |
 | **Logic:** Python (FastAPI), Node.js, Temporal | **Design:** CAD (SolidWorks/Fusion 360), DFM | **Security:** Adversarial Threat Modeling |
-| **Stack:** React, Next.js, Cloudflare R2 | **Prototyping:** Fabrication, PCB, Sensors | **History:** White-Hat Ethical Hacking |
+| **Stack:** React, Next.js, Cloudflare R2 | **Prototyping:** Fabrication, PCB, Sensors | **History:** Full-Stack Engineer |
 
 ---
 
