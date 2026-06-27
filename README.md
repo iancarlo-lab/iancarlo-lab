@@ -7,7 +7,7 @@
 ---
 
 ### 🛰️ System Status: ACTIVE
-I am a **Mechatronics Engineer** and **Technical Product Manager** with a "builder" DNA. I specialize in the hardware-software handshake, architecting autonomous systems that are not only functional but resilient and human-centered.
+I am a **Mechatronics Engineer** and **Technical Product Manager** with a **builder DNA//. I specialize in the hardware-software handshake, architecting autonomous systems that are not only functional but resilient and human-centered.
 
 ---
 
